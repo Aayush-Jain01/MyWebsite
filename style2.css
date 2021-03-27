@@ -1,0 +1,46 @@
+html{
+    background-color: rgb(243, 227, 227);
+}
+img{
+    width: 100%;
+}
+.pics img{
+    width: 100%;
+}
+.Intro {
+    color: rgb(4, 124, 30);
+    background: rgb(0, 255, 191);
+}
+.banner{
+    margin-bottom: 0px;
+}
+.pics h1{
+    margin: 5px;
+    color: rgb(255, 0, 0);
+    text-shadow: 5px;
+}
+.pics ul li{
+    font-size: 22px;
+    color: rgb(255, 51, 0);
+}
+ul{
+    margin: 0px;
+}
+h2{
+    margin-bottom: 0px;
+    color: rgb(255, 115, 0);
+}
+.quotes{
+    text-align: start;
+    margin:40px;
+    white-space: nowrap;
+    padding-inline-start: 0px;
+}
+.quotes li{
+    display: inline;
+    width: 40%;
+    margin: 20px 5%;
+}
+.quotes li img{
+    max-width: 25%;
+}

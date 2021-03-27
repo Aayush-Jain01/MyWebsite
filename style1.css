@@ -1,0 +1,135 @@
+html{
+    padding-inline-start: 55px;
+    margin-top: 55px;
+    margin-bottom: 0px;
+    /* padding-inline-end: 55px; */
+    overflow-x: hidden;
+    /* text-align: center; */
+}
+header{
+    text-align: center;
+    padding: 6px 12px;
+    position: fixed;
+    font-family: sans-serif;
+    z-index: 2;
+    width: 100%;
+    color: yellow;
+    background: rgb(255, 255, 255);
+    opacity: 0.9;
+
+
+}
+.welcome{
+    color: #D7A500;   
+}
+.banner img{
+    width: 100%;
+
+    
+}
+main{
+    /* background-image: url(https://toppng.com/uploads/preview/cool-backgrounds-hd-11553723132qvry9xfox1.jpg);
+    width: 100%; */
+    z-index: 1;
+    /* position: fixed; */
+}
+nav{
+    background-color: #e5d49b;
+    padding: 20px;
+    position: sticky;
+    top: 148px;
+    opacity: 1;
+    z-index: 1;
+}
+nav ul{
+    max-width: 1200px;
+    margin: 0px auto;
+    white-space: nowrap;
+}
+ul{
+    display: block;
+
+}
+nav li{
+    font-size: 20px;
+    padding: 10px;
+    display: inline-block;
+    width: 33%;
+}
+nav li a{
+    color:rgb(255, 115, 0);
+    font-size: 30px;
+    text-decoration: none;
+    padding: 5px 25px;
+} 
+article{
+    color: black
+   
+}
+h2{
+    font-size: 30px;
+    background-color: white;
+    opacity: 0.75;
+    margin: 0px;
+}
+article p{
+    font-size: 20px;
+    font-family: Georgia;
+    word-spacing: 1px;
+    background-color: white;
+    opacity: 0.75;
+    margin: 0;
+    text-shadow: 5px;
+
+}
+
+main p{
+    font-size: 20px;
+    font-family: cursive;
+    line-height: 2em;
+}
+.images{
+    text-align: center;
+    /* margin:80px; */
+    white-space: nowrap;
+    margin-bottom: 12px;
+}
+.images li{
+    display: inline-block;
+    width: 40%;
+    margin: 20px 5%;
+}
+.images li img{
+    max-width: 100%;
+
+}
+.contact{
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0px auto;
+    background: rgb(5, 199, 224);
+    padding-inline-end: 0px;
+}
+ul{
+    padding-inline-start: 0px;
+}
+.contact li {
+    display: inline-block;
+    font-size: 30px;
+    padding: 10px;
+    width: 33.33%;
+    padding-bottom: 8px;
+}
+.contact li a{
+    text-decoration: none;
+    padding: 5px 20px;
+    font-size: 30px;
+    text-decoration: none;
+    color : rgb(3, 3, 3)
+}
+.contact h2{
+    text-align: start;
+    background-color: rgb(5, 199, 224);
+    color: black;
+
+}

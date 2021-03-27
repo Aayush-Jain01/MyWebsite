@@ -1,0 +1,42 @@
+img{
+    width:100%;
+    margin:40px;
+    image-resolution: 100%;
+}
+ul{
+    padding-inline-start: 0px;
+}
+li{
+    font-size: 30px;
+}
+html{
+    background: lightcoral;
+}
+input[type=text], textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    font-size: 20px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+input[type=submit]{
+    background-color: #4CAF50;
+    color: white;
+    padding: 12 px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.container{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    font-size: 25px;
+}
+::-webkit-input-placeholder{
+    font-size: 25px;
+}

@@ -1,0 +1,14 @@
+img{
+    width: 100%;
+    padding: 40px;
+}
+ul{
+    padding-inline-start:0px;
+}
+li{
+    font-size: 30px;
+    color: rgb(14, 13, 13);
+}
+html{
+    background-color: rgba(11, 231, 247, 0.952);
+}
