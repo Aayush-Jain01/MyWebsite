@@ -1,9 +1,9 @@
 html{
-    padding-inline-start: 55px;
+    /*padding-inline-start: 55px;*/
     margin-top: 55px;
     margin-bottom: 0px;
     /* padding-inline-end: 55px; */
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
     /* text-align: center; */
 }
 header{
