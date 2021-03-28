@@ -130,8 +130,8 @@ ul{
     background-color: rgb(5, 199, 224);
     color: black;
 }
-@media screen and (max-width: 1050px){
+/* @media screen and (max-width: 1050px){
     header{
         font-size: 40px;
     }
-}    
+}     */
