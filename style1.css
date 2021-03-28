@@ -16,8 +16,6 @@ header{
     color: yellow;
     background: rgb(255, 255, 255);
     opacity: 0.9;
-
-
 }
 .welcome{
     color: #D7A500;   
@@ -131,5 +129,9 @@ ul{
     text-align: start;
     background-color: rgb(5, 199, 224);
     color: black;
-
 }
+@media screen and (max-width: 1050px){
+    header{
+    font-size: 40px;
+    }
+}    
