@@ -176,7 +176,7 @@ nav{
     padding: 20px;
     position: sticky;
     width: 100%;
-    top: 148px;
+    top: 98px;
     opacity: 1;
     z-index: 1;
 }
@@ -223,7 +223,7 @@ article p{
 
 main p{
 /*     font-size: 3vw; */
-    font-family: cursive;
+/*     font-family: cursive; */
     line-height: 2em;
 }
 .images{
