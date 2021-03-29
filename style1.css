@@ -211,7 +211,7 @@ main h2{
 }
 article p{
     font-size: 25px;
-    /* font-family: Georgia; */
+    font-family: Georgia;
     word-spacing: 1px;
     background-color: white;
     opacity: 0.75;
