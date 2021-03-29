@@ -198,7 +198,7 @@ nav li a{
     color:rgb(255, 115, 0);
     font-size: 3vw;
     text-decoration: none;
-    padding: 0px 20px;
+    padding: 10px 25px;
 } 
 article{
     color: black;
@@ -278,6 +278,9 @@ ul{
     header{
         font-size: 15px;
     }
+    main p{
+        font-size: 2.5vw;
+    }
     .nav li a{
         font-size: 30px;
     }
@@ -316,9 +319,12 @@ ul{
     header{
         font-size: 10px;
     }
-    article p{
-        font-size: 3vw;
+    nav{
+        width = 96%;
     }
+/*     article p{
+        font-size: 3vw;
+    } */
     main h2{
         font-size: 22px;
     }
@@ -334,15 +340,22 @@ ul{
     header{
         font-size: 7px;
     }
-    article p{
-        font-size: 3vw;
+    .nav li a{
+        padding: 10px 25px;
     }
-    .nav li{
+    nav{
+        padding: 10px;
+        width: 96%;
+    }
+    /*     article p{
+        font-size: 3vw;
+    } */
+/*     .nav li{
         width: 20%;
     }
     nav{
         padding: 10px;
-    }
+    } */
     main h2{
         font-size: 20px;
     }
@@ -360,10 +373,15 @@ ul{
     }
 } 
 @media screen and (max-width: 530px){
-    article p{
+/*     article p{
         font-size: 3vw;
-    }
+    } */
     .nav li a{
         font-size: 3.5vw;
+    }
+}
+@media screen and (max-width: 400px){
+    .nav li{
+        padding: 0px;
     }
 }
